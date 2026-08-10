@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用文档
+    url: https://github.com/chaoshidai/ChatCut-Online/tree/main/docs
+    about: 提交问题前请先查看安装、排障和常见问题。
+  - name: 私密安全报告
+    url: https://github.com/chaoshidai/ChatCut-Online/security/advisories/new
+    about: 安全漏洞请使用私密报告，不要公开披露。
