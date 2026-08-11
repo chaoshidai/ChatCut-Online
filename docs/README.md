@@ -1,5 +1,7 @@
 # ChatCut Online 使用文档
 
+[ChatCut Online 官方网站](https://chatcut.online)提供产品介绍、在线服务、协议政策和客服入口；本目录集中维护桌面客户端的使用教程。
+
 ## 新用户路线
 
 1. [安装与首次启动](01-installation.md)
@@ -24,4 +26,4 @@
 | 暂未开放的能力 | [已知限制](10-known-limitations.md) |
 | 高频问题 | [常见问题](11-faq.md) |
 
-所有会变化的信息——例如可用模型、积分报价、套餐价格、系统支持和更新范围——均以当前客户端和 [GitHub Releases](https://github.com/chaoshidai/ChatCut-Online/releases)实时显示为准。
+所有会变化的信息——例如可用模型、积分报价、套餐价格、系统支持和更新范围——均以当前客户端、[ChatCut Online 官方网站](https://chatcut.online)和 [GitHub Releases](https://github.com/chaoshidai/ChatCut-Online/releases)实时显示为准。

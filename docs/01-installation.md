@@ -2,7 +2,7 @@
 
 ## 下载
 
-只从 [ChatCut Online GitHub Releases](https://github.com/chaoshidai/ChatCut-Online/releases/latest)，或客户端内明确标出的官方更新入口下载。打开 Release 后：
+只从 [ChatCut Online 官方网站](https://chatcut.online)、[ChatCut Online GitHub Releases](https://github.com/chaoshidai/ChatCut-Online/releases/latest)，或客户端内明确标出的官方更新入口下载。打开 Release 后：
 
 1. 阅读版本说明中的支持系统、已知问题和升级提示。
 2. 下载与你的操作系统及 CPU 架构匹配的文件。

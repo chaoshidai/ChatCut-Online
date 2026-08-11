@@ -1,10 +1,14 @@
 # ChatCut Online
 
-ChatCut Online 是一款以真实多轨时间线为核心的 AI 视频编辑客户端。你可以像使用传统剪辑软件一样手动调整素材，也可以直接告诉 Agent 想怎么剪；工程、导入素材、生成结果和导出文件默认保存在本机。
+ChatCut Online 是一款以真实多轨时间线为核心的 AI 视频编辑客户端。你可以像使用传统剪辑软件一样手动调整素材，也可以直接告诉 Agent 想怎么剪；工程、导入素材、生成结果和导出文件默认保存在本机。产品介绍、在线服务和官方公告请访问 [ChatCut Online 官方网站](https://chatcut.online)。
 
 > ChatCut Online 正在持续迭代。功能、模型、套餐和积分消耗以客户端及服务端实时显示为准。
 
-[下载最新版](https://github.com/chaoshidai/ChatCut-Online/releases/latest) · [查看全部文档](docs/README.md) · [提交问题](https://github.com/chaoshidai/ChatCut-Online/issues/new/choose)
+[官方网站](https://chatcut.online) · [下载最新版](https://github.com/chaoshidai/ChatCut-Online/releases/latest) · [查看全部文档](docs/README.md) · [提交问题](https://github.com/chaoshidai/ChatCut-Online/issues/new/choose)
+
+## 官方入口
+
+`https://chatcut.online` 是 ChatCut Online 唯一官方网站。网站提供产品介绍、官方服务入口、协议政策、客服支持和后续公告。本 GitHub 仓库用于发布安装包、使用文档和公开问题跟踪；如第三方页面与官网信息不一致，请以[官方网站](https://chatcut.online)和客户端实时显示为准。
 
 ## 主要能力
 

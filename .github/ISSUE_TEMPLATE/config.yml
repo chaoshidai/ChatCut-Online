@@ -3,6 +3,12 @@ contact_links:
   - name: 使用文档
     url: https://github.com/chaoshidai/ChatCut-Online/tree/main/docs
     about: 提交问题前请先查看安装、排障和常见问题。
+  - name: ChatCut Online 官方网站
+    url: https://chatcut.online
+    about: 查看产品介绍、官方服务、协议政策和客服入口。
+  - name: 账号、支付与隐私客服
+    url: https://chatcut.online/support
+    about: 请勿在公开 Issue 中提交手机号、订单、支付凭据或私人数据。
   - name: 私密安全报告
     url: https://github.com/chaoshidai/ChatCut-Online/security/advisories/new
     about: 安全漏洞请使用私密报告，不要公开披露。
